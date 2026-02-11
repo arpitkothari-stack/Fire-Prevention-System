@@ -1,4 +1,4 @@
-# Jio eAnalytiX - Smart Fire Protection Dashboard
+# eAnalytiX - Smart Fire Protection Dashboard
 
 ![Status](https://img.shields.io/badge/Status-Prototype-blue) ![Role](https://img.shields.io/badge/Role-Product_Manager-orange)
 
