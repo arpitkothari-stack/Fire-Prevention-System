@@ -7,7 +7,7 @@
 
 In large-scale industrial zones, safety officers often struggle with opaque, on-premise hardware data. This solution bridges the gap between physical assets (Pumps, Tanks, Sensors) and digital decision-making, reducing response time to critical safety events.
 
-**[🔗 Try the Live Simulator Here]((https://fpsdashbaord.netlify.app/))**
+**[🔗 Try the Live Simulator Here](https://fpsdashbaord.netlify.app/)**
 
 ---
 
